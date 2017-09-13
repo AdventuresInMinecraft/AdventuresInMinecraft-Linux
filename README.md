@@ -3,7 +3,7 @@
 Martin O'Hanlon
 
 From the book: "Adventures in Minecraft" written by David Whale and Martin O'Hanlon, Wiley, 2014
- [http://eu.wiley.com/WileyCDA/WileyTitle/productCd-111894691X.html](eu.wiley.com/WileyCDA/WileyTitle/productCd-111894691X.html)
+ [http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1119439582.html](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1119439582.html)
 
 Important note - Linux is not officially supported within Adventures in Minecraft and this Starter Kit is provided as is.
 
