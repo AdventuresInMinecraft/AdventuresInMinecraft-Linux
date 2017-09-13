@@ -1,9 +1,11 @@
-# Apple Mac OS Starter Kit
+# Linux Starter Kit
 
 Martin O'Hanlon
 
 From the book: "Adventures in Minecraft" written by David Whale and Martin O'Hanlon, Wiley, 2014
  [http://eu.wiley.com/WileyCDA/WileyTitle/productCd-111894691X.html](eu.wiley.com/WileyCDA/WileyTitle/productCd-111894691X.html)
+
+Important note - Linux is not officially supported within Adventures in Minecraft and this Starter Kit is provided as is.
 
 ## Description
 
@@ -18,7 +20,9 @@ The structure of the StarterKit is as follows:
   * MyAdventures : folder to save the minecraft programs too
     * mcpi : python api library distributed with Minecraft: Pi Edition and minecraftstuff libraries
     * anyio : python library which contains the library to control the 7 segment display
+    * bitio : python library which contains the library to control the microbit
     * findPort.py : a python program used in adventure 5 to find the com port a connected arduino uses
+    * bitio.hex : the bitio microbit program which should be copied to the BBC micro:bit
   * StartServer.sh : a bash script used to start the minecraft server
 
 ## StarterKit Creation Guide
