@@ -20,7 +20,7 @@ The structure of the StarterKit is as follows:
   * MyAdventures : folder to save the minecraft programs too
     * mcpi : python api library distributed with Minecraft: Pi Edition and minecraftstuff libraries
     * anyio : python library which contains the library to control the 7 segment display
-    * bitio : python library which contains the library to control the microbit
+    * microbit : python library which contains the library to control the microbit
     * findPort.py : a python program used in adventure 5 to find the com port a connected arduino uses
     * bitio.hex : the bitio microbit program which should be copied to the BBC micro:bit
   * StartServer.sh : a bash script used to start the minecraft server
